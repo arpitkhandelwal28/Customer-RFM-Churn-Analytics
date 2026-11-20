@@ -153,12 +153,14 @@ The analysis identified six customer segments with different purchasing patterns
 
 ## 5. Project Files
 
-| File | Description |
+| File / Folder | Description |
 |---|---|
 | [IKEA Gifting BRD.docx](docs/IKEA%20Gifting%20BRD.docx) | Business Requirement Document outlining the project objectives, business requirements, KPI definitions, and analytical scope. |
 | [IKEA RFM Segnentation.ipynb](notebook/IKEA%20RFM%20Segnentation.ipynb) | Jupyter Notebook containing the Python-based RFM analysis, customer scoring, segmentation, and churn analysis. |
 | [ecommerce.sql](sql/ecommerce.sql) | SQL script for e-commerce transaction data preparation, cleaning, transformation, and analytical queries. |
 | [EcommerceAnalytics.pbix](dashboard/EcommerceAnalytics.pbix) | Power BI dashboard containing the interactive customer, revenue, RFM segmentation, and churn analysis. |
+| [Data folder & dataset details](Data.md) | Documents the raw and processed datasets, including the original transaction CSV files, cleaned data, and customer-level RFM output. Dataset downloads are provided through Google Drive. |
+| [README.md](README.md) | Main project documentation covering the business problem, technology stack, dashboard previews, key insights, recommendations, and skills demonstrated. |
 
 ---
 
