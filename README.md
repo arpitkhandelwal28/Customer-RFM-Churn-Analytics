@@ -153,15 +153,11 @@ The analysis identified six customer segments with different purchasing patterns
 
 ## 5. Project Files
 
-| File Name | Description |
+| File | Description |
 |---|---|
-| `Customer_RFM_Churn_Analysis.sql` | SQL Server ETL pipeline for data consolidation, cleaning, date standardization, and deduplication. |
-| `rfm_segmentation.ipynb` | Python notebook for RFM calculations, customer segmentation, and 90-day churn identification. |
-| `Customer_RFM_Dashboard.pbix` | Interactive Power BI dashboard with DAX measures, custom theme, bookmarks, and visualizations. |
-| `Dashboard_Preview.pdf` | Static PDF export of the two-page executive dashboard. |
-| `custom_theme.json` | Custom Power BI color palette and visual styling configuration. |
-| `BRD.md` | Business Requirement Document covering project scope, KPI definitions, and segmentation logic. |
-| `README.md` | Project documentation covering the overview, methodology, dashboard previews, and business insights. |
+| [IKEA Gifting BRD.docx](docs/IKEA%20Gifting%20BRD.docx) | Business Requirement Document outlining the project objectives, business requirements, KPI definitions, and analytical scope. |
+| [IKEA RFM Segnentation.ipynb](notebook/IKEA%20RFM%20Segnentation.ipynb) | Jupyter Notebook containing the Python-based RFM analysis, customer scoring, segmentation, and churn analysis. |
+| [ecommerce.sql](sql/ecommerce.sql) | SQL script for e-commerce transaction data preparation, cleaning, transformation, and analytical queries. |
 
 ---
 
