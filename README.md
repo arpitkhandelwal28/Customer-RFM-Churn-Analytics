@@ -81,7 +81,7 @@ Includes customer segment distribution, retention analysis, and monthly, quarter
 
 | Revenue View | Customer View |
 |---|---|
-| ![Revenue Overview](doc/image/Overview_Revenue.png) | ![Customer Overview](doc/image/Overview_Customer.png) |
+| ![Revenue Overview](docs/images/Overview_Revenue.png) | ![Customer Overview](docs/images/Overview_Customer.png) |
 
 ### Page 2: RFM & Churn Analysis
 
@@ -89,7 +89,7 @@ Analyzes customer purchasing behavior, RFM scores, customer value, and churn pat
 
 | Segment View | Country View |
 |---|---|
-| ![Segment RFM Analysis](doc/image/Segment_RFM.png) | ![Country RFM Analysis](doc/image/Country_RFM.png) |
+| ![Segment RFM Analysis](docs/images/Segment_RFM.png) | ![Country RFM Analysis](docs/images/Country_RFM.png) |
 
 ---
 
